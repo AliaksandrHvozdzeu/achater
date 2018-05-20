@@ -13,7 +13,7 @@
     <p>Some information</p>
   </article>
   <footer>
-    About programm 
+    _**About programm_** 
     Some information
   </footer>
  </body> 
