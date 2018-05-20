@@ -2,13 +2,14 @@
 achater, web-application
 <html>
  <head>
-  <meta charset="utf-8">
-  <title>header</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css"> 
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
  </head> 
  <body>
-  <header>
-    <h1>Персональный сайт</h1>
-  </header>
+     <nav class="navbar navbar-dark bg-dark">
+        <h1>Персональный сайт</h1>
+     </nav>
   <article>
     <h2>Добро пожаловать!</h2>
     <p>Рад приветствовать вас на своем сайте.</p>
