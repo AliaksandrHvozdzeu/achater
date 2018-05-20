@@ -1,16 +1,15 @@
 # achater
-achater, web-application
+!!! README.md In developing.
 <html>
  <body>
   <header>
-    <h1>Персональный сайт</h1>
+    <h1>Description about this application</h1>
   </header>
   <article>
-    <h2>Добро пожаловать!</h2>
-    <p>Рад приветствовать вас на своем сайте.</p>
+    <p>Some information</p>
   </article>
   <footer>
-    Copyright 
+    About programm 
   </footer>
  </body> 
 </html>
