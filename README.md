@@ -10,6 +10,7 @@
   </article>
   <footer>
     About programm 
+    Some information
   </footer>
  </body> 
 </html>
