@@ -11,7 +11,7 @@ achater, web-application
   </header>
   <article>
     <h2>Добро пожаловать!</h2>
-    <p>Рада приветствовать вас на своем сайте.</p>
+    <p>Рад приветствовать вас на своем сайте.</p>
   </article>
   <footer>
     Copyright 
