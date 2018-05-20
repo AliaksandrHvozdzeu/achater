@@ -1,6 +1,6 @@
 # achater
 
-![Image alt](https://goo.gl/Em1s1n)
+![Image alt](https://github.com/gvozdev1986/achater/blob/master/img/ACHATER.png)
 
 
 !!! README.md In developing.
