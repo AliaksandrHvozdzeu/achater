@@ -14,7 +14,7 @@
   </article>
   <footer>
     About programm
-    Some information
+    Some informations
   </footer>
  </body> 
 </html>
