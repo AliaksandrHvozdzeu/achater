@@ -12,6 +12,7 @@
     <script type="text/javascript" src="/static/js/settings.js"></script>
     <script type="text/javascript" src="/static/js/moment.min.js"></script>
     <script type="text/javascript" src="/static/js/moment-with-locales.min.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
 </head>
 <body>
     <#include "navbar.ftl">

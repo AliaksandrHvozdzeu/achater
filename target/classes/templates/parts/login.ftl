@@ -36,7 +36,9 @@
                 <input type="email" name="useremail" class="form-control" required placeholder="Email"/>
             </div>
         </div>
-
+        <div class="col-sm-6">
+            <!--<div class="g-recaptcha" data-sitekey="6LdHhloUAAAAAEuK4-oPbvQ-jnnlam4S4H2dvH9l"></div>-->
+        </div>
         <!-- LOAD PHOTO FOR REGISTRATION FORM -->
         <!--
         <div class="form-group">
